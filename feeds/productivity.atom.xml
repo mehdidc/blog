@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Mehdi Cherti - productivity</title><link href="http://mehdidc.github.io/" rel="alternate"></link><link href="http://mehdidc.github.io/feeds/productivity.atom.xml" rel="self"></link><id>http://mehdidc.github.io/</id><updated>2017-12-16T00:00:00+01:00</updated><entry><title>Improving my productivity using Pomodoro: takeaways after 2 years of practice</title><link href="http://mehdidc.github.io/improving-my-productivity-using-pomodoro-takeaways-after-2-years-of-practice.html" rel="alternate"></link><published>2017-12-16T00:00:00+01:00</published><updated>2017-12-16T00:00:00+01:00</updated><author><name>Mehdi Cherti</name></author><id>tag:mehdidc.github.io,2017-12-16:/improving-my-productivity-using-pomodoro-takeaways-after-2-years-of-practice.html</id><summary type="html">&lt;p&gt;In this post, I will share my experience on using the &lt;a href="https://en.wikipedia.org/wiki/Pomodoro_Technique"&gt;Pomodoro technique&lt;/a&gt; to improve my 
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Mehdi Cherti - productivity</title><link href="https://mehdidc.github.io/" rel="alternate"></link><link href="https://mehdidc.github.io/feeds/productivity.atom.xml" rel="self"></link><id>https://mehdidc.github.io/</id><updated>2017-12-16T00:00:00+01:00</updated><entry><title>Improving my productivity using Pomodoro: takeaways after 2 years of practice</title><link href="https://mehdidc.github.io/improving-my-productivity-using-pomodoro-takeaways-after-2-years-of-practice.html" rel="alternate"></link><published>2017-12-16T00:00:00+01:00</published><updated>2017-12-16T00:00:00+01:00</updated><author><name>Mehdi Cherti</name></author><id>tag:mehdidc.github.io,2017-12-16:/improving-my-productivity-using-pomodoro-takeaways-after-2-years-of-practice.html</id><summary type="html">&lt;p&gt;In this post, I will share my experience on using the &lt;a href="https://en.wikipedia.org/wiki/Pomodoro_Technique"&gt;Pomodoro technique&lt;/a&gt; to improve my 
 productivity during my PhD.&lt;/p&gt;
 &lt;h2&gt;Motivation&lt;/h2&gt;
 &lt;p&gt;The first time I heard about this technique is when I did the &lt;a href="https://coursera.org/learn/learning-how-to-learn"&gt;Learning to learn course&lt;/a&gt; by Barbara Oakley and Terrence Sejnowski in 2015, which
@@ -53,29 +53,29 @@ The best is to find the durations that you are most comfortable with. I ended up
 Same for the break, sometimes 5 minutes did not work for me.&lt;/p&gt;
 &lt;p&gt;Below is the graph of the frequency of each duration of the Pomodoros I used.
 The most frequent duration was 30 minutes, followed by one hour.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="http://mehdidc.github.io/img/pomodoro/freqs.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://mehdidc.github.io/img/pomodoro/freqs.png"&gt;&lt;/p&gt;
 &lt;h3&gt;Not all days are created equal&lt;/h3&gt;
 &lt;p&gt;As I said before, sometimes it is difficult to do Pomodoro, for different reasons such as admnistrative duties, or attending a conference or working with other people.
 However, it is difficult to maintain the same rythm for a long time, even during days where there are no such interruptions. &lt;/p&gt;
 &lt;p&gt;Some days I am very motivated and I can do a lot of Pomodoros, some other days I do less. In those unfortunate periods where you are less productive, logging the Pomodoros (or collecting data about yourself, in general) can be used to suggest you that at some point you should switch to another task, or just take a break and refresh yourself.&lt;/p&gt;
 &lt;p&gt;Below is the total number of hours spent on each day, globally.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="http://mehdidc.github.io/img/pomodoro/days.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://mehdidc.github.io/img/pomodoro/days.png"&gt;&lt;/p&gt;
 &lt;p&gt;My most productive days seem to be Tuesday, Wednesday, and Thursday. Interestingly, the day with the least number of hours is Friday, not Saturday and Sunday.
 Notice the pattern, a gradually increase, a peak, and then a gradual decrease suggesting fatigue or boredness.
 I noticed a similar pattern on several scales, e.g., on the scale of the weeks or months or even during a single day.&lt;/p&gt;
 &lt;h3&gt;Most productive hours&lt;/h3&gt;
 &lt;p&gt;As I said, I noticed a pattern with a gradual increase then a peak then a gradual decrease during the days of the week. A similar thing can be observed during a single day.&lt;/p&gt;
 &lt;p&gt;Below is the total number of hours of completed Pomodoros which have been started within each hour of the day.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="http://mehdidc.github.io/img/pomodoro/day.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://mehdidc.github.io/img/pomodoro/day.png"&gt;&lt;/p&gt;
 &lt;p&gt;In the morning, there is a peak of productivity around 10AM, then it decreases until lunch time. After lunch, it starts to increase with a peak around 4PM, then it starts to decrease from 4PM until
 7PM. Then, again, starting from 8PM, I restart working and there is a gradual increase with a peak at 11PM. The reason there is a peak at 11PM is that I often set myself a goal of total number of Pomodoros per day, and I try my best to achieve it during the day. Almost always, I end up not being able to achieve it during the day, and thus I try to do the best to achieve it in the evening.&lt;/p&gt;
 &lt;h3&gt;Most productive Months&lt;/h3&gt;
 &lt;p&gt;Below is the total number of hours of Pomodoros during each month.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="http://mehdidc.github.io/img/pomodoro/months.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://mehdidc.github.io/img/pomodoro/months.png"&gt;&lt;/p&gt;
 &lt;p&gt;Again, a similar pattern (gradual increase, peak, gradual decrease, and so on) can be observed on the scale of months. October 2016 and August 2017 were the most productive months. Notice the sparseness of the months of August 2015 and August 2016 which correspond to vacations, August 2017 is an exception because I had to start writing my thesis !&lt;/p&gt;
 &lt;h3&gt;Typical day&lt;/h3&gt;
 &lt;p&gt;Below is a boxplot of the number of hours per day.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="http://mehdidc.github.io/img/pomodoro/day_avg.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://mehdidc.github.io/img/pomodoro/day_avg.png"&gt;&lt;/p&gt;
 &lt;p&gt;The median value is around 6 hours per day. The boxplot shows that 25% of the days I work less than 4 hours and 25% of the days I work more than 8 hours.&lt;/p&gt;
 &lt;h2&gt;Conclusion&lt;/h2&gt;
 &lt;p&gt;Doing pomodoro for 2 years was a great experience.&lt;/p&gt;
