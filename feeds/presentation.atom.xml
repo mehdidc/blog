@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Mehdi Cherti - presentation</title><link href="http://mehdi.cherti.name/" rel="alternate"></link><link href="http://mehdi.cherti.name/feeds/presentation.atom.xml" rel="self"></link><id>http://mehdi.cherti.name/</id><updated>2017-12-15T00:00:00+01:00</updated><entry><title>First post</title><link href="http://mehdi.cherti.name/first-post.html" rel="alternate"></link><published>2017-12-15T00:00:00+01:00</published><updated>2017-12-15T00:00:00+01:00</updated><author><name>Mehdi Cherti</name></author><id>tag:mehdi.cherti.name,2017-12-15:/first-post.html</id><summary type="html">&lt;p&gt;My name is Mehdi Cherti, I am PhD student working on machine learning and deep generative models. 
+My PhD is about deep generative models and how to use them to study and experiment with novelty generation.
+My profile on google scholar is available &lt;a href="https://scholar.google.fr/citations?user=JgOyYi8AAAAJ&amp;amp;hl=en&amp;amp;oi=ao"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My other interests on machine learning …&lt;/p&gt;</summary><content type="html">&lt;p&gt;My name is Mehdi Cherti, I am PhD student working on machine learning and deep generative models. 
+My PhD is about deep generative models and how to use them to study and experiment with novelty generation.
+My profile on google scholar is available &lt;a href="https://scholar.google.fr/citations?user=JgOyYi8AAAAJ&amp;amp;hl=en&amp;amp;oi=ao"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My other interests on machine learning are hyperparameter optimization and meta-learning.
+I am also interested in applying machine learning to natural sciences, such as biology and particle physics.&lt;/p&gt;
+&lt;p&gt;My interests on computer science in general are program synthesis and computer graphics.&lt;/p&gt;
+&lt;p&gt;I am also interested into human learning and how to learn more efficiently and increase productivity.&lt;/p&gt;
+&lt;p&gt;I am also a passionate Python programmer, and I love to contribute to &lt;a href="https://www.gnu.org/philosophy/free-sw.en.html"&gt;free softwares&lt;/a&gt;.
+My public github profile is available here : &lt;a href="https://github.com/mehdidc"&gt;https://github.com/mehdidc&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I was previously at &lt;a href="https://www.lal.in2p3.fr"&gt;LAL&lt;/a&gt;. Currently, I am at &lt;a href="https://www.mines-paristech.fr"&gt;Mines Paristech&lt;/a&gt;.&lt;/p&gt;</content></entry></feed>
